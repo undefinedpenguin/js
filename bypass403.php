@@ -88,7 +88,7 @@ echo "
 	<head>
 		<meta name='author' content='$_n'>
 		<meta name='robots' content='noindex,nofollow'>
-		<title>".$_SERVER['HTTP_HOST']." - $_n</title>
+		<title>$_n -- ".$_SERVER['HTTP_HOST']."</title>
 		<meta name='viewport' content='width=device-width, initial-scale=0.70'>
 		<link rel='stylesheet' href='//smanmojoagung.sch.id/style.css'>
 		<script src='//cdnjs.cloudflare.com/ajax/libs/prism/1.6.0/prism.js'></script>
